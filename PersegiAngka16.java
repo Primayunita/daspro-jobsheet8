@@ -16,7 +16,7 @@ public class PersegiAngka16 {
                     if (i == 0 || i == N - 1 || j == 0 || j == N - 1) {
                         System.out.print(N + " ");
                     } else {
-                        System.out.print("3 ");
+                        System.out.print("  ");
                     }
                 }
                 System.out.println(); 
@@ -24,5 +24,3 @@ public class PersegiAngka16 {
         }
     }
 }
-    
-
